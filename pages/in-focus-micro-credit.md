@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: 'In Focus: Micro Credit'
 manifest_name: in-focus-micro-credit
 permalink: in-focus-micro-credit
