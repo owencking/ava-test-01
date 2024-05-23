@@ -23,6 +23,16 @@
         "id": "https://owencking.github.io/ava-test-01/in-focus-micro-credit/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1629.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://owencking.github.io/ava-test-01/annotations/in-focus-micro-credit-canvas-1---swt-.json",
+            "label": {
+              "none": [" 'SWT'"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://owencking.github.io/ava-test-01/in-focus-micro-credit/canvas-1/paintings",
